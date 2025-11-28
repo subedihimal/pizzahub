@@ -1,1 +1,4 @@
-console.log("Welecome To Server");
+function Welecome(name: String){
+    console.log("hello", + name);
+}
+Welecome("Hello");
